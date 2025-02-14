@@ -1,0 +1,16 @@
+[package]
+name = "sciru"
+version = "0.1.0"
+edition = "2021"
+authors = ["Marcus Cvjeticanin <mjovanc@icloud.com>"]
+description = "A high-performance library for mathematics, science, and engineering written in Rust."
+license = "MIT"
+documentation = "https://docs.rs/sciru/latest/sciru/"
+repository = "https://github.com/mjovanc/sciru"
+readme = "README.md"
+rust-version = "1.83.0"
+homepage = "https://github.com/mjovanc/sciru"
+keywords = ["scientific", "mathematics", "engineering", "science"]
+
+[dependencies]
+numru = "0.2.0"
